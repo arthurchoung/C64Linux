@@ -4,7 +4,7 @@ C64 Linux Bootloader and Console Theme
 
 ## Download
 
-http://hotdoglinux.com/download/
+http://fmamp.com/download/
 
 ## Screenshots
 
@@ -20,5 +20,5 @@ C64 Linux Console (c64console)
 
 Copyright (c) 2023 Arthur Choung. All rights reserved.
 
-Email: arthur -at- hotdoglinux.com
+Email: arthur -at- fmamp.com
 
